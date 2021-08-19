@@ -1,0 +1,6 @@
+pyTelegramBotAPI==3.8.1
+requests==2.25.1
+python-decouple==3.4
+loguru==0.5.3
+telebot
+decouple
